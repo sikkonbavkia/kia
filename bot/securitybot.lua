@@ -223,7 +223,7 @@ function create_config( )
 	"supergroup",
 	"msg_checks"
     },
-    sudo_users = {159887854,0,tonumber(our_id)},--Sudo users
+    sudo_users = {298566978,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [SecurityBOT v3.7
 Unique and powerful Bot Based On TeleSeed 
